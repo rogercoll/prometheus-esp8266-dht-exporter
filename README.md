@@ -46,7 +46,7 @@ Wire the DHT sensor power to the 3.3V and any GND on the ESP and wire the data o
 
 Using the Arduino IDE.
 
-1. Copy `config.default.h` to `config.h` and fill inn the details.
+1. Copy `config.default.h` to `config.h` and fill inn the details. See esp ports number mappins.
 1. Open `src/src.ino` in the Arduino IDE.
 1. Set the correct settings for the board.
     - WEMOS D1 Mini uses board "WeMoS D1 R2 & mini".
